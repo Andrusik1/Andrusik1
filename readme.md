@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="coding.gif">
+<img align="right" alt="Coding" width="400" src="63487-programming-computer.gif">
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrusik1&label=Profile%20views&color=0e75b6&style=flat" alt="andrusik1" /> </p>
 
