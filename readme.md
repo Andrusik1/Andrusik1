@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrusik1&label=Profile%20views&color=0e75b6&style=flat" alt="andrusik1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/andrusiik" target="blank"><img src="https://img.shields.io/twitter/follow/andrusiik?logo=twitter&style=for-the-badge" alt="andrusiik" /></a> </p>
+
 
 - 🌱 I’m currently learning **Angular and React, and all IT staff like algorithms, security, how network works etc.**
 
