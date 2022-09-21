@@ -1,13 +1,21 @@
 <img align="right" alt="Coding" width="400" src="coding.gif">
+
+<h1 align="center">Hi 👋, I'm Szymon</h1>
 <h3 align="center">Hi, I'm 18 years old developer from Poland</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrusik1&label=Profile%20views&color=0e75b6&style=flat" alt="andrusik1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/andrusiik" target="blank"><img src="https://img.shields.io/twitter/follow/andrusiik?logo=twitter&style=for-the-badge" alt="andrusiik" /></a> </p>
 
 - 🌱 I’m currently learning **Angular and React, and all IT staff like algorithms, security, how network works etc.**
 
-- ⚡ Fun fact **Hippos can't swim, they bounce off the bottom just like me :(**
+- 👨‍💻 Actualy working on frontendmentor challanges all avaible here [https://github.com/Andrusik1/Front-end-challanges](https://github.com/Andrusik1/Front-end-challanges)
 
+- 🌳 LinkTree **https://linktr.ee/andrusik**
+
+- 📫 How to reach me **Discord#Andrusik0484 or Twitter DM**
+
+- ⚡ Fun fact **Hippos can't swim, they bounce off the bottom just like me :(**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/andrusik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="andrusik" height="30" width="40" /></a>
