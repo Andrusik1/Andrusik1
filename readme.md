@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://assets5.lottiefiles.com/packages/lf20_w51pcehl.json">
+<img align="right" alt="Coding" width="400" src="[https://assets5.lottiefiles.com/packages/lf20_w51pcehl.json](https://lottiefiles.com/95348-coding-boy)">
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrusik1&label=Profile%20views&color=0e75b6&style=flat" alt="andrusik1" /> </p>
