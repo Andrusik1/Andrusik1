@@ -1,6 +1,5 @@
-<iframe src="https://embed.lottiefiles.com/animation/63487"></iframe>
+<img align="right" alt="Coding" width="400" src="coding.gif">
 <h3 align="center">A passionate frontend developer from India</h3>
-<iframe src="https://embed.lottiefiles.com/animation/63487"></iframe>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrusik1&label=Profile%20views&color=0e75b6&style=flat" alt="andrusik1" /> </p>
 
 - 🌱 I’m currently learning **Angular and React, and all IT staff like algorithms, security, how network works etc.**
