@@ -1,8 +1,12 @@
 <img align="right" alt="Coding" width="400" src="coding.gif">
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hi, I'm 18 years old developer from Poland</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrusik1&label=Profile%20views&color=0e75b6&style=flat" alt="andrusik1" /> </p>
 
+<p align="left"> <a href="https://twitter.com/andrusiik" target="blank"><img src="https://img.shields.io/twitter/follow/andrusiik?logo=twitter&style=for-the-badge" alt="andrusiik" /></a> </p>
+
 - 🌱 I’m currently learning **Angular and React, and all IT staff like algorithms, security, how network works etc.**
+
+- ⚡ Fun fact **Hippos can't swim, they bounce off the bottom just like me :(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
